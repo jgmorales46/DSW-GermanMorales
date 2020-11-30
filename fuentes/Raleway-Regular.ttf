@@ -30,7 +30,6 @@ header{
   font-size: 40px;
   text-decoration: none;
   font-weight: bold;
-  font-family: rale;
 }
 nav{
   width: 70%;
@@ -52,12 +51,7 @@ nav ul li a{
   padding-left: 15px;
   font-weight: bold;
   letter-spacing: 1px;
-  font-family: rale;
 }
 nav ul li a:hover{
   color: #444;
-}
-@@font-face {
-  font-family: rale;
-  src: url(fuentes/Raleway-Regular.ttf);
 }
