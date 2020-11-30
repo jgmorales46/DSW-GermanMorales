@@ -1,4 +1,7 @@
 #particles-js{
 /*  background: #444; */
   background: url(imagenes/unad.jpg);
+  background-position: center;
+  background-attachment: contain;
+  background-size: cover;
 }
