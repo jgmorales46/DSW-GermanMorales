@@ -1,3 +1,9 @@
 body{
   background: #000;
 }
+
+header{
+  width: 100%;
+  background: yellow;
+  height: 70px;
+}
