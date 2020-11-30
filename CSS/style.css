@@ -5,21 +5,21 @@
 
 header{
   width: 100%;
-  background: yellow;
+  background: #1ABC9C;
   height: 70px;
 }
 
 .ancho{
   width: 80%;
   height: 70px;
-  background: red;
+/*  background: red;*/
   margin: auto;
 }
 
 .logo{
   width: 30%;
   height: 70px;
-  background: blue;
+/*  background: blue;*/
   float: left;
   padding-top: 10px;
   box-sizing: border-box;
@@ -35,7 +35,7 @@ header{
 nav{
   width: 70%;
   height: 70px;
-  background: olive;
+/*  background: olive;*/
   float: left;
   text-align: right;
   padding-top: 24px;
