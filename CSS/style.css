@@ -35,3 +35,6 @@ nav{
   background: olive;
   float: left;
 }
+nav ul li{
+  display: inline;
+}
