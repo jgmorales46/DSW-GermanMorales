@@ -38,3 +38,7 @@ nav{
 nav ul li{
   display: inline;
 }
+nav ul li a{
+  color: #fff;
+  font-size: 13px;
+}
