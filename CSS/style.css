@@ -21,6 +21,8 @@ header{
   height: 70px;
   background: blue;
   float: left;
+  padding-top: 10px;
+  box-sizing: border-box;
 
 }
 .logo p a{
