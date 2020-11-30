@@ -20,9 +20,11 @@ header{
   width: 30%;
   height: 70px;
   background: blue;
+  float: left;
 }
 nav{
   width: 70%;
   height: 70px;
   background: olive;
+  float: left;
 }
