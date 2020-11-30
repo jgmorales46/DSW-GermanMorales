@@ -21,6 +21,11 @@ header{
   height: 70px;
   background: blue;
   float: left;
+
+}
+.logo p a{
+  color: #fff;
+  font-size: 40px;
 }
 nav{
   width: 70%;
