@@ -61,3 +61,18 @@ nav ul li a:hover{
   font-family: rale;
   src: url(fuentes/Raleway-Regular.ttf);
 }
+
+section{
+  width: 70%;
+  height: 70px;
+  background: white;
+  float: left;
+
+}
+aside{
+  width: 70%;
+  height: 70px;
+  background: gray;
+  float: left;
+  margin-left: 30px;
+}
