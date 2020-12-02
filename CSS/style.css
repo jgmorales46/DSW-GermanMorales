@@ -109,3 +109,20 @@ ul,ol{
   text-decoration:none;
   padding: 10px 15px;
 }
+.ger li a:hover{
+  background-color:#434343;
+}
+.ger > li{
+  float:left;
+}
+.ger li ul{
+  display:none;
+  position:absolute;
+  min-widht:140px;
+}
+.ger li:hover> ul{
+  display:block;
+}
+.ger li ul li{
+  position:relative;
+}
