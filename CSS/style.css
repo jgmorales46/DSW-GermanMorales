@@ -7,6 +7,8 @@ header{
   width: 100%;
   background: #2f65b7;
   height: 80%;
+
+
 }
 
 .ancho{
@@ -34,7 +36,7 @@ header{
 }
 nav{
   width: 70%;
-  height: 70px;
+  height: 100px;
 /*  background: olive;*/
   float: left;
   text-align: right;
@@ -63,18 +65,19 @@ nav ul li a:hover{
 }
 
 section{
-  width: 70%;
+  width: 65%;
   height: 500px;
   background: red;
   float: left;
+  margin-left: 3%;
 
 }
 aside{
-  width: 28%;
+  width: 25%;
   height: 500px;
   background: gray;
   float: left;
-  margin-left: 2%;
+  margin-left: 4%;
 }
 footer{
   width: 100%;
