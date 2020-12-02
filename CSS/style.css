@@ -62,16 +62,16 @@ nav ul li a:hover{
   src: url(fuentes/Raleway-Regular.ttf);
 }
 
-/*section{
+section{
   width: 70%;
-  height: 70px;
+  height: 500px;
   background: red;
   float: left;
 
 }
 aside{
   width: 28%;
-  height: 70px;
+  height: 500px;
   background: gray;
   float: left;
   margin-left: 2%;
@@ -83,4 +83,3 @@ footer{
   float: left;
   margin-top: 20px;
 }
-*/
