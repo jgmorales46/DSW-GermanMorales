@@ -6,3 +6,6 @@ background: #444;
   background-size: cover;*/
 
 }
+body{
+    background-image: url(../imagenes/unad.jpg);
+}
