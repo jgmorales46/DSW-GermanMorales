@@ -67,7 +67,7 @@ nav ul li a:hover{
 section{
   width: 65%;
   height: 500px;
-  background: red;
+  background: ghostwhite;
   float: left;
   margin-left: 3%;
 
@@ -75,7 +75,7 @@ section{
 aside{
   width: 25%;
   height: 500px;
-  background: gray;
+  background: whitesmoke;
   float: left;
   margin-left: 4%;
 }
